@@ -1,0 +1,26 @@
+
+{
+  "monthly": [
+    { "month": "Jan", "amount": 650000 },
+    { "month": "Feb", "amount": 690000 },
+    { "month": "Mar", "amount": 720000 },
+    { "month": "Apr", "amount": 685000 },
+    { "month": "May", "amount": 730000 },
+    { "month": "Jun", "amount": 750000 }
+  ],
+  "categories": [
+    { "category": "Salaries", "amount": 2700000 },
+    { "category": "Rent", "amount": 820000 },
+    { "category": "Marketing", "amount": 650000 },
+    { "category": "Utilities", "amount": 320000 },
+    { "category": "Supplies", "amount": 580000 },
+    { "category": "Miscellaneous", "amount": 270000 }
+  ],
+  "departmental": [
+    { "department": "Admin", "amount": 950000 },
+    { "department": "Marketing", "amount": 1200000 },
+    { "department": "Operations", "amount": 1600000 },
+    { "department": "IT", "amount": 780000 },
+    { "department": "Customer Service", "amount": 680000 }
+  ]
+}
