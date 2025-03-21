@@ -1,0 +1,32 @@
+
+{
+  "daily": [
+    { "date": "2023-06-01", "amount": 45000 },
+    { "date": "2023-06-02", "amount": 52000 },
+    { "date": "2023-06-03", "amount": 49000 },
+    { "date": "2023-06-04", "amount": 63000 },
+    { "date": "2023-06-05", "amount": 58000 },
+    { "date": "2023-06-06", "amount": 71000 },
+    { "date": "2023-06-07", "amount": 67000 }
+  ],
+  "monthly": [
+    { "month": "Jan", "amount": 1250000 },
+    { "month": "Feb", "amount": 1320000 },
+    { "month": "Mar", "amount": 1430000 },
+    { "month": "Apr", "amount": 1380000 },
+    { "month": "May", "amount": 1520000 },
+    { "month": "Jun", "amount": 1600000 }
+  ],
+  "categories": [
+    { "category": "Electronics", "amount": 3800000 },
+    { "category": "Clothing", "amount": 2450000 },
+    { "category": "Home Goods", "amount": 1950000 },
+    { "category": "Books", "amount": 980000 },
+    { "category": "Food", "amount": 1650000 }
+  ],
+  "channels": [
+    { "channel": "Online", "amount": 6500000 },
+    { "channel": "Retail", "amount": 3900000 },
+    { "channel": "Wholesale", "amount": 2100000 }
+  ]
+}
